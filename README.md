@@ -1,17 +1,17 @@
 # FUTURE_DS_03
 
-# DATA SCIENCE & ANALYTICS INTERNSHIP - FUTURE INTERNS
+DATA SCIENCE & ANALYTICS INTERNSHIP - FUTURE INTERNS
 
-📊 Task 3 – Power BI Dashboard: Student Feedback Analysis Report
+# 📊 Task 3 – Power BI Dashboard: Student Feedback Analysis Report
 
-🔍 Project Overview
+# 🔍 Project Overview
 
 This project involved building an interactive Power BI dashboard to analyze student feedback across various course attributes, such as teaching clarity, support, course structure, and more. The dashboard helps visualize which areas scored highest and lowest, and provides key summary metrics.
 
 
 ---
 
-🎯 Objectives
+# 🎯 Objectives
 
 Visualize average ratings by course attributes
 
@@ -25,7 +25,7 @@ Design a clean, professional-looking dashboard
 
 ---
 
-📁 Dataset Used
+# 📁 Dataset Used
 
 Source: Anonymous course feedback form
 
@@ -40,7 +40,7 @@ Rating values (numeric scores out of 10)
 
 ---
 
-📌 Dashboard Features
+# 📌 Dashboard Features
 
 ✅ KPI Cards:
 
@@ -72,7 +72,7 @@ Visual breakdown of contribution by each attribute
 
 ---
 
-🛠 Tools & Skills Used
+# 🛠 Tools & Skills Used
 
 Microsoft Power BI
 
@@ -84,7 +84,7 @@ Skills: Data visualization, Dashboard design, Insight extraction
 
 ---
 
-🧠 Insights Gained
+# 🧠 Insights Gained
 
 Learned how to highlight key metrics using KPI visuals
 
